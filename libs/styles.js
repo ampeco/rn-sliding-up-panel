@@ -14,6 +14,8 @@ export default StyleSheet.create({
     alignSelf: 'stretch',
     position: 'absolute',
     left: 0,
-    right: 0
+    right: 0,
+    elevation: 500,
+    zIndex: 500
   }
 })
